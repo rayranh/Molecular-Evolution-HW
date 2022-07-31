@@ -1,5 +1,9 @@
 # Molecular-Evolution-HW
-projects and homework problems done in R 
+projects and homework problems done in R  
+
+- input folder contains the files necessary for solving the homework problems 
+
+- the output folder contains the plots for homework 
 
 ## 4.5.1 Homework 4: Write a script that does the following:
 ### Read in the metadata file. Print a table showing how many individuals we have from each population.
