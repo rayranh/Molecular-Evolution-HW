@@ -20,11 +20,6 @@ projects and homework problems done in R
 4. For the “TAS” population, what are the average ancestry proportions from each cluster?
 5. Plot the ancestry barplot with populations labelled at the bottom. Color palette is up to you :) 
 
-## Homework 6: Write a script that does the following:
-1. Read in the "genotypes.csv" and "metadata.csv". Reorder the metadata so that samples in the same order as in the genotypes file.
-2. Write a function that returns the proportion of data for each individual that is missing. Apply the function to your genotype data and print the summary.
-3. Create a PCA. Color by Field.ID and add a legend.
-
 ## Homework 7: Write a script that does the following:
 1. Finish filling out the spreadsheet with results from BOLD and BLAST. Read the data file into R and print the dataframe.
 2. Make a barplot showing the number of samples labelled correctly vs. incorrectly according to BOLD.
