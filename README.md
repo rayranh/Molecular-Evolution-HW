@@ -35,6 +35,6 @@ projects and homework problems done in R
 2. Perform and plot the GWAS for bill length. This may take a while. Add a dashed line representing a p-value cutoff of p<0.05
 3. Using the GWAS output, make a barplot showing how many significant (p<0.05) SNPs are on each chromosome (this will require application several skills we've learned previously) 
 
-## Homework 8: Write a script that does the following:
+## Homework 9: Write a script that does the following:
 1. Calculate Fst for males and females separately
 2. Create a 2-panel figure with separate PCAs for males and females.
